@@ -1,3 +1,4 @@
 # LFMEX
-overlapping community detection\n
+overlapping community detection
+
 there are some networks in the folder new_data
